@@ -114,5 +114,33 @@ section{
     position: relative;
     bottom: 260px;
     left: 1030px;
-    /* right: 800px; */
+}
+
+.social-media img{
+    width: 100%;
+    
+}
+
+.social-media{
+    text-align: center;
+    color: dimgray;
+    
+}
+
+
+.social-media h2{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.image-decoration{
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    top: 50px;
+    left: 40%;
+    transform: translate(-50%, -50%);
+      
 }
